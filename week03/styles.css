@@ -18,5 +18,23 @@ header h1 {
   color: #7C1A00;
   padding: 40px 40px 40px 120px;
   background-image: url("header-image-1.gif");
+  background-repeat: no-repeat;
 
+}
+
+#container {
+  margin-bottom: 30px;
+}
+
+nav {
+  float: left;
+  width: 150px;
+
+}
+
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  color: #7C1A00;
 }
