@@ -42,7 +42,7 @@ nav ul {
 
 nav li {
   margin: 10px;
-  padding: 1px 1px 1px 1px;
+  border: 1px 1px 1px 1px;
   border-style: solid;
   border-color; #7C1A00;
   background-color: #FFE597;
@@ -57,4 +57,23 @@ nav a {
 
 nav a:hover {
     background-color: #7C1A00;
+}
+
+#content {
+  background-image: url("trans-bg.gif");
+  border: 1px solid #CCCCCC;
+  margin-left: 180px;
+  padding: 10px;
+
+}
+
+footer {
+  clear: left;
+  text-align: center;
+}
+
+footer li {
+  display: inline;
+  padding: 10px;
+
 }
