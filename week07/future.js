@@ -1,7 +1,10 @@
-var numKids = [14, 3, 0 ,17, 22, 100, 5, 6, 8];
-var spouse = ["Brad Pitt", "Nobody. You are forever alone", "your career", "Timothee Chakamet"];
-var city = ["New York City", "Atlanta", "Tahoe", "Zimbabwe"];
-var job = ["Sanitation Expert", "Movie Watcher", "Dog Trainer", "House Sitter", "Twitch Streamer"];
+var job = ["Sanitation Expert","Movie Watcher","Dog Trainer","Twitch Streamer"];
+var city = ["New York City","Atlanta","Tahoe","Zimbabwe"];
+var spouse = ["Brad Pitt","Nobody. You are forever alone","your career","Timothee Chakamet"];
+var numKids = [14,3,0,17,22,100,5,6,8];
+
+
+
 
 var xx = Math.floor(Math.random() * 4 )
 
